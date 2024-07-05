@@ -1040,7 +1040,7 @@ html {
 .footer {
   display: flex;
   flex-direction: column;
-  background-image: url("https://cdn.prod.website-files.com/63860c8c65e7bef4a1eeebeb/638b22bd2c86b73a37c06aa5_Group%20152%20\(1\)-min.png");
+  background: url("https://cdn.prod.website-files.com/63860c8c65e7bef4a1eeebeb/638b22bd2c86b73a37c06aa5_Group%20152%20\(1\)-min.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
