@@ -52,3 +52,10 @@ if (window.innerWidth > 768) {
     });
   });
 }
+
+let dropdown = document.querySelector(".dropdown");
+let anotherOne = document.querySelector(".another-one");
+
+dropdown.addEventListener("click", () => {
+  anotherOne.classList.toggle("active");
+});
